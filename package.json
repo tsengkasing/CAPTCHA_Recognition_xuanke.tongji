@@ -1,0 +1,16 @@
+{
+  "name": "ParseCAPTCHA",
+  "version": "0.0.1",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "tsengkasing",
+  "license": "MIT",
+  "dependencies": {
+    "brain": "^0.7.0",
+    "fs": "0.0.1-security",
+    "jimp": "^0.2.27",
+    "jpeg-js": "^0.2.0"
+  }
+}
